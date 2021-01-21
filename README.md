@@ -14,6 +14,7 @@
  The flow is as follows:
  1. Parent Text they are in parking lot.
  (NOTE: Wagons Roll Lite does not include the AI feature that identifies vehicle automatically.)
+ 
  2. Application prioritizes parent by putting them in the order of text received.
  	1. Rosario is used like a normal merchant vault and lookups the children to be picked up by use of the phone number.
  	2. WR then populates which children go with what line.
