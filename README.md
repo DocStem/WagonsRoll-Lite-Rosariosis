@@ -22,8 +22,9 @@
 ![QUEUE OPEN](readmepics/queue.png)
 
  Large Transport Item Flow
- 1. Buses are queue at the process open to be 'Awaited'.
- 2. Buses normally will not text their presents so location marks notification of present.
+ 1. Buses are queued at the process open to be 'Awaited'.
+ 2. Buses normally will not text their present so location marks notification of present. So staff registered devices and input the bus is present.. See Screen shot.
+ (NOTE: Wagons Roll Lite does not include the AI feature that identifies vehicle automatically.)
  	a. A list of the days bus riders is put together out of Rosario and the Queue of student names is included.
  3. After bus is loaded, flow is closed.
     a. If limited bus spots, the next available bus is queue.
