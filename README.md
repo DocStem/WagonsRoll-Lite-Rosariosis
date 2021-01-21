@@ -1,5 +1,6 @@
 # WagonsRoll-Lite-Rosariosis
 ============================
+ 
  Wagons Roll (by FinTech) Integration into Rosario SIS: Allows organizations to create a Pickup coordinated through simple text.
 
  This is an integration of Wagons Roll into Rosario SIS system. The Pickup items are actually students in this case and not merchandise.
@@ -27,7 +28,7 @@
  3. After bus is loaded, flow is closed.
     a. If limited bus spots, the next available bus is queue.
 
-Full Queue in action managing 300+ vehicle pickups .... No Problem.
+### Full Queue in action managing 300+ vehicle pickups .... No Problem.
 ![QUEUE OPEN](readmepics/queuesession.png)
 
 
