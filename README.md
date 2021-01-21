@@ -14,7 +14,7 @@
  The flow is as follows:
  1. Parent Text they are in parking lot.
  (NOTE: Wagons Roll Lite does not include the AI feature that identifies vehicle automatically.)
- 
+
  2. Application prioritizes parent by putting them in the order of text received.
  	1. Rosario is used like a normal merchant vault and lookups the children to be picked up by use of the phone number.
  	2. WR then populates which children go with what line.
@@ -30,6 +30,7 @@
  	1. A list of the days bus riders is put together out of Rosario and the Queue of student names is included.
  3. After bus is loaded, flow is closed.
     1. If limited bus spots, the next available bus is queue.
+ 4. When bus leaves Parents of students on bus are texted. Makes sure little ones are met at the bus stop on time and great for bad weather.
 
 ### Full Queue in action managing 300+ vehicle pickups .... No Problem.
 ![QUEUE OPEN](readmepics/queuesession.png)
