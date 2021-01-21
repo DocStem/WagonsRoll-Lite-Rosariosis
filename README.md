@@ -1,4 +1,5 @@
 # WagonsRoll-Lite-Rosariosis
+============================
  Wagons Roll (by FinTech) Integration into Rosario SIS: Allows organizations to create a Pickup coordinated through simple text.
 
  This is an integration of Wagons Roll into Rosario SIS system. The Pickup items are actually students in this case and not merchandise.
@@ -17,7 +18,7 @@
  3. Application texts parent when a pickup spot is 'Open' and informs them of the spot number.
  4. Teachers (just like warehose workers) can see the building queue to tell which children should get ready and move to pickup location.
  5. When pickup is complete, location closes the flow and Opens the Pickup Spot back up
-![QUEUUE OPEN](readmepics/queu.png)
+![QUEUE OPEN](readmepics/queue.png)
 
  Large Transport Item Flow
  1. Buses are queue at the process open to be 'Awaited'.
@@ -25,7 +26,7 @@
  	a. A list of the days bus riders is put together out of Rosario and the Queue of student names is included.
  3. After bus is loaded, flow is closed.
     a. If limited bus spots, the next available bus is queue.
-![QUEUUE OPEN](readmepics/queusession.png)
+![QUEUE OPEN](readmepics/queuesession.png)
 
 
 ### Requirements
@@ -43,10 +44,10 @@
 
 ### Other Screen Shots of Wagons Roll with Rosario Integration
 --------------------------------------------------------
-![QUEUUE OPEN](readmepics/queutop.png)
-![QUEUUE OPEN](readmepics/simpleinstall.png)
-![QUEUUE OPEN](readmepics/systemsetup.png)
-![QUEUUE OPEN](readmepics/flow.png)
+![QUEUE OPEN](readmepics/queuetop.png)
+![SIMPLE INSTALL](readmepics/simpleinstall.png)
+![SYSTEM SETUP](readmepics/systemsetup.png)
+![FLOW](readmepics/flow.png)
 
 ### Rosario Installation
 ------------------------
