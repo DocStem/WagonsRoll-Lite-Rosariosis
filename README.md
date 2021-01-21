@@ -13,9 +13,10 @@
  The process flow DOES NOT require any cellphone application to be installed. It is all done through Texting at the Parent end. 
  The flow is as follows:
  1. Parent Text they are in parking lot.
+ (NOTE: Wagons Roll Lite does not include the AI feature that identifies vehicle automatically.)
  2. Application prioritizes parent by putting them in the order of text received.
- 	a. Rosario is used like a normal merchant vault and lookups the children to be picked up by use of the phone number.
- 	b. WR then populates which children go with what line.
+ 	1. Rosario is used like a normal merchant vault and lookups the children to be picked up by use of the phone number.
+ 	2. WR then populates which children go with what line.
  3. Application texts parent when a pickup spot is 'Open' and informs them of the spot number.
  4. Teachers (just like warehose workers) can see the building queue to tell which children should get ready and move to pickup location.
  5. When pickup is complete, location closes the flow and Opens the Pickup Spot back up
@@ -25,9 +26,9 @@
  1. Buses are queued at the process open to be 'Awaited'.
  2. Buses normally will not text their present so location marks notification of present. So staff registered devices and input the bus is present.. See Screen shot.
  (NOTE: Wagons Roll Lite does not include the AI feature that identifies vehicle automatically.)
- 	a. A list of the days bus riders is put together out of Rosario and the Queue of student names is included.
+ 	1. A list of the days bus riders is put together out of Rosario and the Queue of student names is included.
  3. After bus is loaded, flow is closed.
-    a. If limited bus spots, the next available bus is queue.
+    1. If limited bus spots, the next available bus is queue.
 
 ### Full Queue in action managing 300+ vehicle pickups .... No Problem.
 ![QUEUE OPEN](readmepics/queuesession.png)
