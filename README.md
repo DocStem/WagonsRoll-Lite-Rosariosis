@@ -1,8 +1,8 @@
 # WagonsRoll-Lite-Rosariosis
- Wagons Roll from FinTech Integration into Rosario SIS: Allows organizations to create a Pickup coordinated through simple text.
+ Wagons Roll (by FinTech) Integration into Rosario SIS: Allows organizations to create a Pickup coordinated through simple text.
 
  This is an integration of Wagons Roll into Rosario SIS system. The Pickup items are actually students in this case and not merchandise.
- The lite version creates a process flow between the pickup person and the location. In this case most likely parent (pickup person) and school (location).
+ The lite version creates a process flow between the pickup person and the location. In this case most likely parent (pickup person) and school (location). The integration code into Rosario is Open Source. Wagons Roll Lite is a product of FinTech and subject to their licenses.
 
  This was done for school dismissals during COVID.
 
@@ -31,7 +31,7 @@
 ### Requirements
  ----------------
  1. Rosario SIS
- 2. Wagons Roll Lite license (it is free for schools in 2020 & 2021)
+ 2. Wagons Roll Lite license (it is FREE for schools in 2020 & 2021). School should contact with School information on School email this person to obtain a FREE license for Wagons Roll gforkin at fintechllc dot com (written long hand to avoid spammers) for a LITE license instructions. The integration code into Rosario is Open Source MIT License.
  3. The system uses an IMAP technology so there is no cost to text parents and run this process.
 
 ### Settings
