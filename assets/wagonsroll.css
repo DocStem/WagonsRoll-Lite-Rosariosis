@@ -1,0 +1,188 @@
+ body
+  {
+   margin:0;
+   padding:1px;
+   background-color:#f1f1f1;
+  }
+
+  .box
+  {
+   width:98%;
+   border:1px solid #ccc;
+   background-color:#fff;
+   border-radius:5px;
+   float:top;
+  }
+
+.settingwrapper{
+  width:98%;
+   background-color:#fff;
+   border-radius:5px;
+   float:top;
+   float:center;
+  border: 1px solid #008000;
+}
+
+.my-tab{
+  border: solid 1px black;
+  border-top: 0;
+  border-left: 0;
+border-right: 0;}
+
+#settingwrapper button{
+right:0;
+}
+
+#systembox
+  {
+   width:98%;
+   background-color:#fff;
+   border-radius:5px;
+   float:top;
+  }
+
+#banner{
+width:"80%";
+}
+
+#banner img{
+width:"50%";
+height:"50px";
+float: right;
+}
+
+
+   #queueID
+  {
+   padding:10px;
+   background-color:#f1f1f1;
+  }
+  #postCountDown
+  {
+   padding:10px;
+   background-color:#f1f1f1;
+ 
+  }
+  #postCountDown p
+  {
+
+   padding:10px;
+   border-bottom:1px dotted #ccc;
+}
+
+
+
+table.listing {
+  border: 1px solid #008000;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+}
+
+
+
+.listing tr:nth-child(odd) {
+  background-color: #121212;
+  color:#fff;
+
+}
+.listing tr.urgent {
+  background-color: hsla(0,100%,50%,.75);
+  color:#fff;
+
+}
+.listing tr.delayed {
+  background-color: hsla(0,100%,50%,.5);
+  color:#fff;
+
+}
+
+.listing th{
+    background-color: #4682b4;
+    color:#000;
+    border: 1px solid #000;
+  
+}
+
+div.scroll { 
+                margin:2px, 2px; 
+                padding:2px; 
+                width: 95%; 
+                height: 70%; 
+                overflow-x: hidden; 
+                overflow-y: auto; 
+                text-align:justify; 
+              
+            } 
+.bottomright {
+   display:block;
+    position:absolute;
+    bottom:0;
+    right:0;
+    width:100%;
+    background-color:#eee;
+    border:1px solid #ddd;
+    color:#4682b4;
+}
+
+
+div.redTable {
+  border: 2px solid #A40808;
+  background-color: #EEE7DB;
+  width: 95%;
+  align: center;
+  text-align: center;
+  border-collapse: collapse;
+}
+.divTable.redTable .divTableCell, .divTable.redTable .divTableHead {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+.divTable.redTable .divTableBody .divTableCell {
+  font-size: 13px;
+}
+.divTable.redTable .divTableCell:nth-child(even) {
+  background: #D0E4F5;
+}
+.divTable.redTable .divTableHeading {
+  background: #A40808;
+}
+.divTable.redTable .divTableHeading .divTableHead {
+  font-size: 19px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #A40808;
+}
+.divTable.redTable .divTableHeading .divTableHead:first-child {
+  border-left: none;
+}
+
+.redTable .tableFootStyle {
+  font-size: 13px;
+}
+.redTable .tableFootStyle .links {
+   text-align: right;
+}
+.redTable .tableFootStyle .links a{
+  display: inline-block;
+  background: #FFFFFF;
+  color: #A40808;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+.redTable.outerTableFooter {
+  border-top: none;
+}
+.redTable.outerTableFooter .tableFootStyle {
+  padding: 3px 5px; 
+}
+/* DivTable.com */
+.divTable{ display: table; }
+.divTableRow { display: table-row; }
+.divTableHeading { display: table-header-group;}
+.divTableCell, .divTableHead { display: table-cell;}
+.divTableHeading { display: table-header-group;}
+.divTableFoot { display: table-footer-group;}
+.divTableBody { display: table-row-group;}
