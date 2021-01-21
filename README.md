@@ -1,7 +1,7 @@
 # WagonsRoll-Lite-Rosariosis
  Wagons Roll from FinTech Integration into Rosario SIS: Allows organizations to create a Pickup coordinated through simple text.
 
- This is an integration into Wagons Roll from the Rosario SIS system. The Pickup items are actually students in this case and not merchandise.
+ This is an integration of Wagons Roll into Rosario SIS system. The Pickup items are actually students in this case and not merchandise.
  The lite version creates a process flow between the pickup person and the location. In this case most likely parent (pickup person) and school (location).
 
  This was done for school dismissals during COVID.
