@@ -26,6 +26,8 @@
  	a. A list of the days bus riders is put together out of Rosario and the Queue of student names is included.
  3. After bus is loaded, flow is closed.
     a. If limited bus spots, the next available bus is queue.
+
+Full Queue in action managing 300+ vehicle pickups .... No Problem.
 ![QUEUE OPEN](readmepics/queuesession.png)
 
 
@@ -45,7 +47,9 @@
 ### Other Screen Shots of Wagons Roll with Rosario Integration
 --------------------------------------------------------
 ![QUEUE OPEN](readmepics/queuetop.png)
+One button installation of the Wagons Roll Lite
 ![SIMPLE INSTALL](readmepics/simpleinstall.png)
+Simple Setup Screen to get Rolling
 ![SYSTEM SETUP](readmepics/systemsetup.png)
 ![FLOW](readmepics/flow.png)
 
